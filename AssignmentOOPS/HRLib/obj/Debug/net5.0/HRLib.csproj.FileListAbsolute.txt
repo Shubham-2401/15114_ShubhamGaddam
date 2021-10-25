@@ -1,0 +1,12 @@
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.AssemblyInfoInputs.cache
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.AssemblyInfo.cs
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.csproj.CoreCompileInputs.cache
+D:\training(.net)\AssignmentOOPS\HRLib\bin\Debug\net5.0\HRLib.deps.json
+D:\training(.net)\AssignmentOOPS\HRLib\bin\Debug\net5.0\HRLib.dll
+D:\training(.net)\AssignmentOOPS\HRLib\bin\Debug\net5.0\ref\HRLib.dll
+D:\training(.net)\AssignmentOOPS\HRLib\bin\Debug\net5.0\HRLib.pdb
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.dll
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\ref\HRLib.dll
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.pdb
+D:\training(.net)\AssignmentOOPS\HRLib\obj\Debug\net5.0\HRLib.csproj.AssemblyReference.cache

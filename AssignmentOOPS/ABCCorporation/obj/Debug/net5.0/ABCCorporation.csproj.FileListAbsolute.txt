@@ -1,0 +1,16 @@
+D:\training(.net)\AssignmentOOPS\ABCCorporation\bin\Debug\net5.0\ABCCorporation.exe
+D:\training(.net)\AssignmentOOPS\ABCCorporation\bin\Debug\net5.0\ABCCorporation.deps.json
+D:\training(.net)\AssignmentOOPS\ABCCorporation\bin\Debug\net5.0\ABCCorporation.runtimeconfig.json
+D:\training(.net)\AssignmentOOPS\ABCCorporation\bin\Debug\net5.0\ABCCorporation.runtimeconfig.dev.json
+D:\training(.net)\AssignmentOOPS\ABCCorporation\bin\Debug\net5.0\ABCCorporation.dll
+D:\training(.net)\AssignmentOOPS\ABCCorporation\bin\Debug\net5.0\ref\ABCCorporation.dll
+D:\training(.net)\AssignmentOOPS\ABCCorporation\bin\Debug\net5.0\ABCCorporation.pdb
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.csproj.AssemblyReference.cache
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.GeneratedMSBuildEditorConfig.editorconfig
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.AssemblyInfoInputs.cache
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.AssemblyInfo.cs
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.csproj.CoreCompileInputs.cache
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.dll
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ref\ABCCorporation.dll
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.pdb
+D:\training(.net)\AssignmentOOPS\ABCCorporation\obj\Debug\net5.0\ABCCorporation.genruntimeconfig.cache
