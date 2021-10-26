@@ -1,0 +1,16 @@
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.exe
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.deps.json
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.runtimeconfig.json
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.runtimeconfig.dev.json
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.dll
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\ref\Type_Collection_demo.dll
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\bin\Debug\net5.0\Type_Collection_demo.pdb
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.csproj.AssemblyReference.cache
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.AssemblyInfoInputs.cache
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.AssemblyInfo.cs
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.csproj.CoreCompileInputs.cache
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.dll
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\ref\Type_Collection_demo.dll
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.pdb
+D:\training(.net)\Type_Collection_demo\Type_Collection_demo\obj\Debug\net5.0\Type_Collection_demo.genruntimeconfig.cache
