@@ -1,0 +1,26 @@
+﻿@model IEnumerable<MVCDemoApp.ViewModels.EmpDepViewModel>
+    @{ ViewData["Title"] = "ViewModelDemo"; }
+    <h1>ViewModelDemo</h1>
+    <table class="table-responsive">
+        <tr>
+            <th>EmpNo</th>
+            <th>Emp Name</th>
+            <th>Job</th>
+            <th>Years Completed</th>
+            <th>Salary</th>
+            <th>Dept Name</th>
+            <th>SLocation</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Employee.Empno</td>
+                <td>@item.Employee.Ename</td>
+                <td>@item.Employee.Job</td>
+                <td>@item.YearsCompleted</td>
+                <td style="color:@item.SalaryColor">@item.Employee.Sal</td>
+                @*<td>@item.Department.Dname</td>*@
+                <td>@item.Department.Loc</td>
+            </tr>
+        }
+    </table>

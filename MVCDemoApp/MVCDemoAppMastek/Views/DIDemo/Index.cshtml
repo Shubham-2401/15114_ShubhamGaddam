@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="text-center">
+    <h3>
+        Dependency Injection Lifetime
+    </h3>
+</div>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Service Type</th>
+            <th>First Instance Operation ID</th>
+            <th>Second Instance Operation ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="background-color: lightgreen"> Transient </td>
+            <td style="background-color: lightgreen"> @ViewBag.transient1 </td>
+            <td style="background-color: lightgreen"> @ViewBag.transient2 </td>
+        </tr>
+        <tr>
+            <td style="background-color: lightgoldenrodyellow">Scoped</td>
+            <td style="background-color: lightgoldenrodyellow">@ViewBag.scoped1</td>
+            <td style="background-color: lightgoldenrodyellow">@ViewBag.scoped2</td>
+        </tr>
+        <tr>
+            <td style="background-color: lightskyblue"> Singleton </td>
+            <td style="background-color: lightskyblue"> @ViewBag.singleton1 </td>
+            <td style="background-color: lightskyblue"> @ViewBag.singleton2 </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3> Observation from Request 1 and Request 2</h3>
+<table>
+    <tr>
+        <td>
+            AddTransient
+        </td>
+        <td>
+
+            Transient service always returns a new instance even though it’s the same request, that is why operation Ids are different for first instance and second instance for both the requests (Request 1 and Request 2).
+        </td>
+    </tr>
+    <tr>
+        <td>
+            AddScoped
+        </td>
+        <td>
+            In the case of Scoped service, a single instance is created per request and the same instance is shared across the request. That is why operation Ids are the same for first instance as well as second instance of Request 1. But if we click on refresh button or load the UI on different tab of a browser (which is nothing but Request 2), new ids are generated.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            AddSingleton
+        </td>
+        <td>
+            In the case of Singleton service, only one instance is created and shared across applications. If we click on refresh button or load the UI on the different tab of a browser (which is nothing but Request 2), those ids will remain the same.
+        </td>
+    </tr>
+</table>

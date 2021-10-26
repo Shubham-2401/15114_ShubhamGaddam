@@ -1,0 +1,27 @@
+﻿@model MVCDemoAppMastek.Models.Employee
+
+@{
+    ViewData["Title"] = "STGetEmployeeForm";
+}
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+<h1>STGetEmployeeForm</h1>
+
+<form asp-controller="Home" asp-action="STDisplayEmployee" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+        
+    EmpId : <input asp-for="EmpId" class="form-text" />
+    <span asp-validation-for="EmpId" class="text-danger"></span>
+    <br />
+    EmpName : <input asp-for="EmpName" class="form-text" />
+    <span asp-validation-for="EmpName" class="text-danger"></span>
+    <br />
+
+    Salary : <input asp-for="Salary" class="form-text" />
+    <span asp-validation-for="Salary" class="text-danger"></span>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

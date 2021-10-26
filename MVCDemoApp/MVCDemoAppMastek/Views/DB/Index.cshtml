@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<h1>Index</h1>
+<table class=" table table-striped">
+    <tr>
+        <th>ProductID</th>
+        <th>ProductName</th>
+        <th>UnitPrice</th>
+    </tr>
+    @foreach (Product item in Model)
+    {
+        <tr>
+            <td>@item.ProductId</td>
+            <td>@item.ProductName</td>
+            <td>@item.UnitPrice</td>
+        </tr>
+    }
+</table>
